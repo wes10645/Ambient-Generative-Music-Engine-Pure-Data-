@@ -2,7 +2,7 @@
 
 The main DSP implementation can be found in:
 
-`patches/ambient_engine.pd`
+`AMBIENT.pd`
 
 To run:
 1. Open Pure Data (Pd)
